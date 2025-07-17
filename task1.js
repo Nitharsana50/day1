@@ -19,8 +19,8 @@ let number2 = parseFloat(prompt("Enter the second number:"));
 console.log("User Input Number 2:", number2);
 
 // Example hardcoded numbers
-let num1 = 10;
-let num2 = 2;
+let num1 = 20;
+let num2 = 5;
 
 console.log("Hardcoded Number 1:", num1);
 console.log("Hardcoded Number 2:", num2);
